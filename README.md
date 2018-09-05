@@ -17,12 +17,14 @@ Please don't hesitate to suggest one of your module to this project. Also, you m
  - https://github.com/OCA/stock-logistics-warehouse
 
 [//]: # (addons)
+
 Available addons
 ----------------
 addon | version | summary
 --- | --- | ---
 [stock_packaging_usability](stock_packaging_usability/) | 8.0.1.0.0 | Faster packaging process in Odoo
 [stock_packaging_usability_ul](stock_packaging_usability_ul/) | 8.0.1.0.0 | Faster packaging process with logistical units
+
 
 Unported addons
 ---------------
